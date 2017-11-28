@@ -1,0 +1,4 @@
+- Recreate app as "sally"
+- Bring under GIT control
+- Create new firebase project
+- Add firebase
